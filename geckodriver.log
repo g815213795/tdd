@@ -1,0 +1,265 @@
+1649741967958	geckodriver	INFO	Listening on 127.0.0.1:48601
+1649741968458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45387" "-no-remote" "-profile" "/tmp/rust_mozprofilenKtPBS"
+1649742049623	geckodriver	INFO	Listening on 127.0.0.1:34162
+1649742050127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39095" "-no-remote" "-profile" "/tmp/rust_mozprofileI4NAK5"
+1649742788812	geckodriver	INFO	Listening on 127.0.0.1:35924
+1649742789316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43333" "-no-remote" "-profile" "/tmp/rust_mozprofile1nTKDW"
+1649743677266	geckodriver	INFO	Listening on 127.0.0.1:36026
+1649743677789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44265" "-no-remote" "-profile" "/tmp/rust_mozprofilew6wYoJ"
+1649744673777	geckodriver	INFO	Listening on 127.0.0.1:43250
+1649744673782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48394" "-no-remote" "-profile" "/tmp/rust_mozprofilerPXNiF"
+1649745483839	geckodriver	INFO	Listening on 127.0.0.1:42381
+1649745484353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38780" "-no-remote" "-profile" "/tmp/rust_mozprofileKD9k6Q"
+
+(firefox:3657): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_background_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_background_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3657): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+[GFX1-]: glxtest: libEGL missing methods for GL test
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1649745484961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKD9k6Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38780/devtools/browser/c4902479-ec89-4138-bd11-0d779cda0f87
+1649745489356	Marionette	INFO	Listening on port 37394
+1649745489430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649745490118	Marionette	INFO	Stopped listening on port 37394
+1650348283047	geckodriver	INFO	Listening on 127.0.0.1:46908
+1650348283548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34377" "-no-remote" "-profile" "/tmp/rust_mozprofileYSXwVG"
+
+(firefox:5034): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_background_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_background_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:5034): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+[GFX1-]: glxtest: libEGL missing methods for GL test
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1650348284480	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYSXwVG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34377/devtools/browser/440a25d1-2725-40f8-bad2-556569d77041
+1650348287812	Marionette	INFO	Listening on port 42491
+1650348287854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650348289042	Marionette	INFO	Stopped listening on port 42491
+1650951117196	geckodriver	INFO	Listening on 127.0.0.1:36900
+1650951117695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52949" "-no-remote" "-profile" "/tmp/rust_mozprofileIq7rYj"
+
+(firefox:3171): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_background_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_background_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_color: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_widget_get_style_context: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_state: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+
+(firefox:3171): Gtk-CRITICAL **: gtk_style_context_get_property: assertion 'GTK_IS_STYLE_CONTEXT (context)' failed
+[GFX1-]: glxtest: libEGL missing methods for GL test
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1650951119102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIq7rYj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52949/devtools/browser/898dfede-fc16-4546-9cb6-4839a34b5eb8
+1650951124693	Marionette	INFO	Listening on port 33715
+1650951124849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650951133239	Marionette	INFO	Stopped listening on port 33715
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650951618066	geckodriver	INFO	Listening on 127.0.0.1:57264
+1650951618565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46400" "-no-remote" "-profile" "/tmp/rust_mozprofileVmwfwy"
+1650951619939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:46400/devtools/browser/d2c97616-3f10-495d-86b0-f75479b66b7a
+1650951629459	Marionette	INFO	Listening on port 36823
+1650951629627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1650951630841	Marionette	INFO	Stopped listening on port 36823
+!!! error running onStopped callback: TypeError: callback is not a function
+1650951632843	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
