@@ -1,5 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.common import keys
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 import unittest
@@ -30,7 +30,7 @@ class NewVisitorTest(unittest.TestCase):
 
 		inputbox = self.browser.find_element_by_id('id_new_item')
 		self.assertEqual(
-			inputbox.get_attribut('placeholder'),
+			inputbox.get_attribute('placeholder'),
 			'Enter a to-do item'
 			)
 
@@ -44,9 +44,10 @@ class NewVisitorTest(unittest.TestCase):
 		time.sleep(1)
 
 		table = self.browser.find_element_by_id('id_list_table')
-		rows = table.find_element_by_tag_name('tr')
+		rows = table.find_elements_by_tag_name('tr')
 		self.assertTrue(
-			any(row.text == '1: Buy peacock feathers' for row in rows)
+			any(row.text == '1: Buy peacock feathers' for row in rows),
+			"New to-do item did not appear in table"
 			)
 
 # There is still a text box inviting her to add another item. She
@@ -65,4 +66,3 @@ class NewVisitorTest(unittest.TestCase):
 if __name__ =='__main__':
 	unittest.main(warnings='ignore')
 #browser.quit()
-
