@@ -1,10 +1,11 @@
 from selenium import webdriver
+from django.test import LiveServerTestCase
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 import unittest
 
-class NewVisitorTest(unittest.TestCase):
+class NewVisitorTest(LiveServerTestCase):
 	def setUp(self):
 		self.browser = webdriver.Firefox()
 
@@ -21,7 +22,7 @@ class NewVisitorTest(unittest.TestCase):
 
 # Edith has heard about a cool new online to-do app. She goes
 # to check out its homepage
-		self.browser.get('http://localhost:8000')
+		self.browser.get(self.live_server_url)
 
 
 # She notices the page title and header mention to-do lists
