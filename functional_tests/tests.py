@@ -1,4 +1,5 @@
 from selenium import webdriver
+from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 from django.test import LiveServerTestCase
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -8,7 +9,16 @@ import unittest
 
 MAX_WAIT = 10
 
-class NewVisitorTest(LiveServerTestCase):
+class NewVisitorTest(StaticLiveServerTestCase):
+
+
+
+	def setUp(self):
+		self.browser = webdriver.Firefox()
+
+	def tearDown(self):
+		self.browser.quit()
+
 	def test_layout_and_styling(self):
 		#Edith goes to the home page
 		self.browser.get(self.live_server_url)
@@ -25,13 +35,6 @@ class NewVisitorTest(LiveServerTestCase):
 		self.wait_for_row_in_list_table('1: testing')
 		inputbox = self.browser.find_element_by_id('id_new_item')
 		self.assertAlmostEqual(inputbox.location['x'] + inputbox.size['width']/2,512,delta=10)
-
-
-	def setUp(self):
-		self.browser = webdriver.Firefox()
-
-	def tearDown(self):
-		self.browser.quit()
 
 	def wait_for_row_in_list_table(self, row_text):
 		start_time = time.time()
@@ -77,9 +80,7 @@ class NewVisitorTest(LiveServerTestCase):
 
 		inputbox.send_keys(Keys.ENTER)
 		self.wait_for_row_in_list_table('1: Buy peacock feathers')
-			# any(row.text == '1: Buy peacock feathers' for row in rows),
-			# f"New to-do item did not appear in table. Contents were:\n{table.text}"
-			# )
+
 
 # There is still a text box inviting her to add another item. She
 # enters "Use peacock feathers to make a fly" (Edith is very methodical)
