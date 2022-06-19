@@ -1,0 +1,14 @@
+[Unit]
+Description=Gunicorn server for 114.115.220.140
+
+
+[Service]
+Restart=on-failure
+User=midas
+WorkingDirectory=/home/midas/sites/114.115.220.140/source
+ExecStart=/home/midas/sites/114.115.220.140/virtualenv/bin/gunicorn --bind unix:/tmp/114.115.220.140.socket superlists.wsgi:application
+
+
+[Install]
+WantedBy=multi-user.target
+
